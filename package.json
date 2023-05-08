@@ -1,6 +1,6 @@
 {
-  "name": "vtk.js",
-  "version": "0.0.0-semantically-release",
+  "name": "@labelbox/vtk.js",
+  "version": "0.0.1",
   "description": "Visualization Toolkit for the Web",
   "keywords": [
     "3d",
